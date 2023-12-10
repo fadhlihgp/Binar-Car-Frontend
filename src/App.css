@@ -1,3 +1,15 @@
+body {
+  font-family: 'Helvetica', Arial, sans-serif;
+}
+
+p {
+  font-family: Helvetica, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 20px;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +47,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
 }
